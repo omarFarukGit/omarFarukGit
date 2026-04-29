@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **Typescript , Typescript + express, TypeScript+React**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-abu-hafs.vercel.app/](https://portfolio-abu-hafs.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://omar-faruk-protfolio.vercel.app/](https://omar-faruk-protfolio.vercel.app/)
 
 - 📫 How to reach me **muhammadomarfaruk31@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/abu-hafs-b7b3993a9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abu-hafs-b7b3993a9" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/omarfarukdev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abu-hafs-b7b3993a9" height="30" width="40" /></a>
 <a href="https://fb.com/abuhafsfacbook" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abuhafsfacbook" height="30" width="40" /></a>
 <a href="https://www.topcoder.com/members/5410" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="5410" height="30" width="40" /></a>
 <a href="https://discord.gg/abu_hafz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="abu_hafz" height="30" width="40" /></a>
