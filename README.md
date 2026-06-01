@@ -1,13 +1,26 @@
 <p align="center">
-  <img src="./banner.png" alt="Banner" />
+  <img src="./banner.png" alt="MD Omar Faruk Banner" />
 </p>
+
 <h1 align="center">Hi 👋, I'm MD Omar Faruk</h1>
-<h3 align="center">A passionate Mern stack developer from Bangladesh</h3>
+<h3 align="center">A Passionate Full Stack Developer from Bangladesh 🇧🇩</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=omarFarukGit&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+</p>
+
+---
+
 ## 🚀 About Me
 
-I'm a passionate Full Stack Developer from Bangladesh who enjoys building scalable web applications using modern technologies. I love solving real-world problems, learning new technologies, and creating clean user experiences.
+I'm a passionate Full Stack Developer from Bangladesh who enjoys building scalable web applications using modern technologies. I love solving real-world problems, learning new technologies, and creating clean user-friendly experiences.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=omarFarukGit&label=Profile%20views&color=0e75b6&style=flat" alt="omarFarukGit" /> </p>
+- 💻 Focused on Full Stack Web Development
+- 🚀 Passionate about building scalable applications
+- 📚 Always learning modern technologies
+- 🎯 Goal: Become a World-Class Software Engineer
+
+---
 
 ## 🔭 Current Activities
 
@@ -15,29 +28,68 @@ I'm a passionate Full Stack Developer from Bangladesh who enjoys building scalab
 - 🚀 Building a Tourism Management Website
 - 📚 Learning PostgreSQL and Prisma ORM
 - 💡 Improving Backend Architecture with Express.js
+- ⚡ Practicing Data Structures and Problem Solving
 
-- 👨‍💻 All of my projects are available at [https://omar-faruk-protfolio.vercel.app/](https://omar-faruk-protfolio.vercel.app/)
+---
 
-- 📫 How to reach me **muhammadomarfaruk31@gmail.com**
+## 👨‍💻 Portfolio & Contact
 
-<h3 align="left">Connect with me:</h3>
+- 🌐 Portfolio: https://omar-faruk-protfolio.vercel.app/
+- 📫 Email: muhammadomarfaruk31@gmail.com
 
-<p align="left">
-<a href="https://www.linkedin.com/in/omarfarukdev/">
-<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
-</a>
+---
 
-<a href="https://github.com/omarFarukGit">
-<img src="https://skillicons.dev/icons?i=github" height="40"/>
-</a>
+## 🌐 Connect With Me
 
-<a href="mailto:muhammadomarfaruk31@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="40"/>
-</a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/omarfarukdev/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  
+  <a href="https://github.com/omarFarukGit">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  
+  <a href="mailto:muhammadomarfaruk31@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
+## 🛠️ Skills & Technologies
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omarFarukGit&" alt="omarFarukGit" /></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,postgres,prisma,redux,tailwind,git,github,figma,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=omarFarukGit&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarFarukGit&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omarFarukGit&theme=tokyonight" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=omarFarukGit&theme=tokyonight&margin-w=15&margin-h=15" />
+</p>
+
+---
+
+<p align="center">
+  <b>✨ Code • Learn • Build • Improve ✨</b>
+</p>
