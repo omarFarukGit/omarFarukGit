@@ -3,6 +3,9 @@
 </p>
 <h1 align="center">Hi 👋, I'm MD Omar Faruk</h1>
 <h3 align="center">A passionate Mern stack developer from Bangladesh</h3>
+## 🚀 About Me
+
+I'm a passionate Full Stack Developer from Bangladesh who enjoys building scalable web applications using modern technologies. I love solving real-world problems, learning new technologies, and creating clean user experiences.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omarFarukGit&label=Profile%20views&color=0e75b6&style=flat" alt="omarFarukGit" /> </p>
 
