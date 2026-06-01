@@ -22,11 +22,19 @@ I'm a passionate Full Stack Developer from Bangladesh who enjoys building scalab
 - 📫 How to reach me **muhammadomarfaruk31@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
-<a href="https://www.linkedin.com/in/omarfarukdev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abu-hafs-b7b3993a9" height="30" width="40" /></a>
-<a href="https://fb.com/abuhafsfacbook" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abuhafsfacbook" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/5410" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="5410" height="30" width="40" /></a>
-<a href="https://discord.gg/abu_hafz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="abu_hafz" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/omarfarukdev/">
+<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+</a>
+
+<a href="https://github.com/omarFarukGit">
+<img src="https://skillicons.dev/icons?i=github" height="40"/>
+</a>
+
+<a href="mailto:muhammadomarfaruk31@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
