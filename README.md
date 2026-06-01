@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./banner.png" alt="Banner" />
+</p>
 <h1 align="center">Hi 👋, I'm MD Omar Faruk</h1>
 <h3 align="center">A passionate Mern stack developer from Bangladesh</h3>
 
