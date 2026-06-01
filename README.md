@@ -10,8 +10,12 @@ I'm a passionate Full Stack Developer from Bangladesh who enjoys building scalab
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omarFarukGit&label=Profile%20views&color=0e75b6&style=flat" alt="omarFarukGit" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omarFarukGit" alt="omarFarukGit" /></a> </p>
+## 🔭 Current Activities
 
-- 🌱 I’m currently learning **Typescript , Typescript + express, TypeScript+React**
+- 🌱 Exploring Next.js 15 and TypeScript
+- 🚀 Building a Tourism Management Website
+- 📚 Learning PostgreSQL and Prisma ORM
+- 💡 Improving Backend Architecture with Express.js
 
 - 👨‍💻 All of my projects are available at [https://omar-faruk-protfolio.vercel.app/](https://omar-faruk-protfolio.vercel.app/)
 
