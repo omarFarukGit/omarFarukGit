@@ -11,16 +11,15 @@
 
 ---
 
-## 🚀 About Me
-
-I'm a passionate Full Stack Developer from Bangladesh who enjoys building scalable web applications using modern technologies. I love solving real-world problems, learning new technologies, and creating clean user-friendly experiences.
-
-- 💻 Focused on Full Stack Web Development
-- 🚀 Passionate about building scalable applications
-- 📚 Always learning modern technologies
-- 🎯 Goal: Become a World-Class Software Engineer
-
----
+<!--- about --->
+- 👋 Hi, I’m **[@omarFaruk](https://github.com/omarFarukGit)**
+- 🖥️ I’m currently working on **React.js, Next.js, Typescript and Redux** for frontend development.
+- 🗄️ Using **Node.js, Express.js, MongoDB, Mongoose, PostgreSQL, and Prisma** for the backend.
+- 🛠️ I’m currently learning ** Docker and AWS**.
+- 💬 Ask me about **Full-Stack (React, Next, Node, Express, MongoDB, PostgreSQL)**.
+- 🌐 Explore My Portfolio **[OmarFaruk](https://omar-faruk-protfolio.vercel.app/)** and My **[Resume](https://drive.google.com/file/d/1Bla2FYGJYkiT6IHYPgTBTTzn5g1uL315/view?usp=sharing)**
+- 📝 I regularly write articles on **[LinkedIn](https://www.linkedin.com/in/omarfarukdev/)**
+- 📫 Feel free to reach me out **[Email](muhammadomarfaruk@gmail.com)**
 
 ## 🔭 Current Activities
 
@@ -57,15 +56,44 @@ I'm a passionate Full Stack Developer from Bangladesh who enjoys building scalab
 
 ---
 
-## 🛠️ Skills & Technologies
+<!--- technology --->
+##  <img src="https://media4.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.webp" width ="35"><b> TECHNOLOGY STACK:</b>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,postgres,prisma,redux,tailwind,git,github,figma,vscode" />
-</p>
+### Languages:
+[![Languages](https://skillicons.dev/icons?i=html,css,javascript,typescript,sql,)](https://github.com/omarFarukGit)
 
----
+### CSS Frameworks & Libraries:
+[![CSS Frameworks & Libraries](https://skillicons.dev/icons?i=tailwind)](https://github.com/omarFarukGit)
 
-## 📊 GitHub Statistics
+### JavaScript Frameworks & Libraries:
+[![JavaScript Frameworks & Libraries](https://skillicons.dev/icons?i=react,next,redux,nodejs,express)](https://github.com/omarFarukGit)
+
+### Database & Model:
+[![Database & Model](https://skillicons.dev/icons?i=mongodb,postgres,prisma)](https://github.com/omarFarukGit)
+
+### Deployment Platform:
+[![Deployment Platform](https://skillicons.dev/icons?i=vercel,netlify)](https://github.com/omarFarukGit)
+
+### Design & Graphics:
+[![Design & Graphics](https://skillicons.dev/icons?i=figma,ai,ps)](https://github.com/omarFarukGit)
+
+### Tools & Technologies:
+[![Tools & Technologies](https://skillicons.dev/icons?i=windows,ubuntu,notion,git,github,vscode,postman,docker)](https://github.com/omarFarukGit)
+
+<br/>
+
+<!--- statistics --->
+## <img src="https://media1.giphy.com/media/TJP7EH5i1fB2rKeWbf/giphy.webp" width="30"><b> GITHUB STATISTICS & ANALYSIS:</b>
+
+### GitHub Contributions:
+![Snake Grid](https://github.com/touhidcodes/contribution-snake/blob/output/grid.svg)
+
+
+### GitHub Statistics:
+| <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=touhidcodes&theme=swift&hide_border=true&include_all_commits=false&count_private=false" /></a> | <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=touhidcodes&theme=swift&hide_border=true&include_all_commits=false&count_private=false&layout=compact" /></a> |
+| ------------- | ------------- |
+
+<br/>
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=omarFarukGit&show_icons=true&theme=tokyonight" />
